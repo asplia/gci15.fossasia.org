@@ -1,0 +1,28 @@
+﻿pick 8a388b2 removed duplicate data
+squash ce72b77 Create GIT.md
+squash ad6ada5 Update README.md
+squash 1b0a55c Update README.md
+squash d5be73d ducphanduy commit
+squash 22245eb Revert "New image added"
+squash c713359 Fixes #198
+squash 51e4057 image added4
+squash 84cd2ee image pawelk
+
+# Rebase 7d20d4d..84cd2ee onto 7d20d4d (9 command(s))
+#
+# Commands:
+# p, pick = use commit
+# r, reword = use commit, but edit the commit message
+# e, edit = use commit, but stop for amending
+# s, squash = use commit, but meld into previous commit
+# f, fixup = like "squash", but discard this commit's log message
+# x, exec = run command (the rest of the line) using shell
+#
+# These lines can be re-ordered; they are executed from top to bottom.
+#
+# If you remove a line here THAT COMMIT WILL BE LOST.
+#
+# However, if you remove everything, the rebase will be aborted.
+#
+# Note that empty commits are commented out
+
